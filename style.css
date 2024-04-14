@@ -18,6 +18,7 @@ html{
 }
 body{
     font-size: 0.9375rem;
+    background-color: var(--Very-light-gray);
 }
 main{
     max-width: 920px;
